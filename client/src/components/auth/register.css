@@ -1,0 +1,36 @@
+.register-main {
+	width: 25vw;
+	position: absolute;
+	margin-top: 64px;
+	margin-bottom: 64px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.register-card {
+	margin-bottom: 10px;
+	padding: 16px;
+}
+
+.card-img-top {
+	width: 50%;
+	margin: auto;
+}
+
+.register-heading {
+	text-align: center;
+	color: grey;
+}
+
+.have-account {
+	text-align: center;
+}	
+
+.form-group input  {
+	background-color: #fafafa
+}
+
+.register-btn {
+	width: 100%;
+}

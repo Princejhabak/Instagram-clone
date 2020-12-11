@@ -1,0 +1,13 @@
+.comment-main {
+    width: 25vw;
+    height: 65vh;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.comment-body {
+    overflow-y: auto;
+    overflow-x: hidden;
+}

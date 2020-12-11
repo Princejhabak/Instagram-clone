@@ -1,0 +1,29 @@
+.login-main {
+	width: 25vw;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.login-card {
+	margin-bottom: 10px;
+	padding: 16px;	
+}
+
+.card-img-top {
+	width: 50%;
+	margin: auto;
+}
+
+.no-account {
+	text-align: center;
+}	
+
+.form-group input  {
+	background-color: #fafafa
+}
+
+.login-btn {
+	width: 100%;
+}
